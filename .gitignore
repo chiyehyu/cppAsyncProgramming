@@ -1,0 +1,15 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+.gitignore
+# dependencies
+
+# testing
+/coverage
+
+# production
+/build
+
+# ide
+.vscode
+
+# exe
+*.exe
